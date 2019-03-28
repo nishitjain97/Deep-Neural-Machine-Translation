@@ -1,2 +1,2 @@
 # Example-Based-Neural-Machine-Translation-System
-A personal project on Neural Machine Translation
+A personal Natural Language Processing project on Neural Machine Translation
