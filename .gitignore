@@ -1,6 +1,7 @@
-/*.en
-/*.hi
-/*.txt
-/*.h5
-/*.ma
-/*.hdf5
+*.en
+*.hi
+*.txt
+*.h5
+*.ma
+*.hdf5
+/data
