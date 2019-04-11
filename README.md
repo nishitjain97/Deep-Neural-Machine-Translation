@@ -40,14 +40,16 @@ Transfer learning has been one step forward to improve the accuracy of predictio
     
 ## Command Line Interface
   A command line interface has been created for anyone who wishes to try this system out of the box. To get it working, follow these steps:
-    1) Download CLI folder. This folder contains the interface, along with the trained model weights and Word2Vec embeddings.
-    2) Install dependencies by running:
+  1) Download CLI folder. This folder contains the interface, along with the trained model weights and Word2Vec embeddings.
+  
+  2) Install dependencies by running:
           pip install -r requirements.txt
-    3) Run the 5_Seq2Seq_Eng_Mar_TL_E_Inference.py file using Python3.6:
+          
+  3) Run the 5_Seq2Seq_Eng_Mar_TL_E_Inference.py file using Python3.6:
           python 5_Seq2Seq_Eng_Mar_TL_E_Inference.py
           
 ## References
   1) Word2Vec: Deep Learning by Google at Udacity.com
   2) Encoder-Decoder architecture: https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7
   
-## If using this code for public / private, commercial / non-commercial purposes, kindly give a shout-out to my repository.
+### If using this code for public / private, commercial / non-commercial purposes, kindly give a shout-out to my repository.
