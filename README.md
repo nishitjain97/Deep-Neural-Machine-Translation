@@ -1,4 +1,4 @@
-# Example-Based-Neural-Machine-Translation-System
+# Deep-Neural-Machine-Translation
 A Word-level Sequence-to-Sequence Neural Machine Translation system. It uses an Encoder-Decoder architecture, where both the encoder and decoder are Recurrent Neural Networks that use LSTM cells. 
 
 ## Objective
